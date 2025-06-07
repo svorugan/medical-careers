@@ -70,7 +70,7 @@ export default function PsychiatryPage() {
             <div className="absolute left-0 bg-purple-500 rounded-full w-10 h-10 flex items-center justify-center text-white font-bold">4</div>
             <h3 className="text-xl font-bold text-gray-900 mb-2">Fellowship (Optional, 1-2 years)</h3>
             <p className="text-gray-600 mb-2">Pursue a fellowship in a psychiatry subspecialty for further expertise.</p>
-            <p className="text-gray-500 italic">Examples: Child & Adolescent Psychiatry, Forensic Psychiatry, Addiction Psychiatry, Geriatric Psychiatry, etc.</p>
+            <p className="text-gray-500 italic">Examples: Child &amp; Adolescent Psychiatry, Forensic Psychiatry, Addiction Psychiatry, Geriatric Psychiatry, etc.</p>
           </div>
         </div>
         <div className="bg-purple-50 p-6 rounded-lg mt-8">
@@ -139,7 +139,7 @@ export default function PsychiatryPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {[
             {
-              name: "Child & Adolescent Psychiatry",
+              name: "Child &amp; Adolescent Psychiatry",
               description: "Focuses on diagnosing and treating mental health issues in children and teenagers.",
               additionalTraining: "2-year fellowship after psychiatry residency"
             },

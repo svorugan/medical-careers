@@ -85,35 +85,35 @@ export default function PediatricsPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
             {
-              name: "Children's Hospital of Philadelphia (CHOP)",
+              name: "Children&apos;s Hospital of Philadelphia (CHOP)",
               location: "Philadelphia, PA",
               ranking: "#1 for Pediatrics",
               applicationDeadline: "November 1",
               website: "https://www.chop.edu/"
             },
             {
-              name: "Boston Children's Hospital",
+              name: "Boston Children&apos;s Hospital",
               location: "Boston, MA",
               ranking: "#2 for Pediatrics",
               applicationDeadline: "October 22",
               website: "https://www.childrenshospital.org/"
             },
             {
-              name: "Cincinnati Children's Hospital Medical Center",
+              name: "Cincinnati Children&apos;s Hospital Medical Center",
               location: "Cincinnati, OH",
               ranking: "#3 for Pediatrics",
               applicationDeadline: "October 15",
               website: "https://www.cincinnatichildrens.org/"
             },
             {
-              name: "Johns Hopkins Children's Center",
+              name: "Johns Hopkins Children&apos;s Center",
               location: "Baltimore, MD",
               ranking: "#4 for Pediatrics",
               applicationDeadline: "October 15",
               website: "https://www.hopkinsmedicine.org/johns-hopkins-childrens-center/"
             },
             {
-              name: "Children's National Hospital",
+              name: "Children&apos;s National Hospital",
               location: "Washington, DC",
               ranking: "#5 for Pediatrics",
               applicationDeadline: "October 1",
@@ -204,7 +204,7 @@ export default function PediatricsPage() {
           <div className="bg-white rounded-lg p-6 shadow-md">
             <h3 className="text-xl font-bold text-gray-900 mb-2">Work Settings</h3>
             <ul className="text-gray-600 list-disc pl-5">
-              <li>Children's hospitals</li>
+              <li>Children&apos;s hospitals</li>
               <li>General hospitals</li>
               <li>Private practices</li>
               <li>Community clinics</li>
