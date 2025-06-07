@@ -1,0 +1,12 @@
+This directory will contain images for the medical careers website.
+
+For a production website, you would need to add actual images for:
+- medical-hero.jpg (for the homepage hero section)
+- neurology.jpg
+- cardiology.jpg
+- oncology.jpg
+- pediatrics.jpg
+- surgery.jpg
+- psychiatry.jpg
+
+These images should be properly licensed for your use (royalty-free or purchased with appropriate rights).
