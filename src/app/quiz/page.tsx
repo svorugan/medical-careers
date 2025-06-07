@@ -26,7 +26,7 @@ const questions = [
     question: "What motivates you most?",
     options: [
       { text: "Understanding how the brain works", value: "neurology" },
-      { text: "Making a difference in children’s lives", value: "pediatrics" },
+      { text: "Making a difference in children&apos;s lives", value: "pediatrics" },
       { text: "Helping patients fight serious diseases", value: "oncology" },
       { text: "Fixing things with my hands", value: "surgery" },
       { text: "Helping people with emotions and behavior", value: "psychiatry" },

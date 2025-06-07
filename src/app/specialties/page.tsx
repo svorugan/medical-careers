@@ -15,7 +15,7 @@ export default function SpecialtiesPage() {
       description: 'Focuses on disorders of the heart and cardiovascular system.',
       image: '/images/cardiology.png',
       slug: 'cardiology',
-      subSpecialties: ['Interventional Cardiology', 'Electrophysiology', 'Heart Failure', 'Preventive Cardiology']
+      subSpecialties: ['Interventional Cardiology', 'Electrophysiology', 'Heart Failure', 'Pediatric Cardiology']
     },
     {
       name: 'Oncology',

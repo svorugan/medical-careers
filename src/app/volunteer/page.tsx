@@ -31,7 +31,7 @@ export default function VolunteerPage() {
           <li>Be professional in all communications—use a formal email and resume</li>
           <li>Be respectful of patient privacy (HIPAA) and always follow instructions</li>
           <li>Keep a journal of what you observe and reflect on your experiences</li>
-          <li>Send thank-you notes to the physicians and staff you shadow</li>
+          <li>Send thank&#39;you notes to the physicians and staff you shadow</li>
         </ul>
       </div>
     </div>
