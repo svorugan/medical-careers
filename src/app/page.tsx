@@ -24,9 +24,9 @@ export default function Home() {
         </div>
       </div>
 
-      {/* What You&apos;ll Find Here Section */}
+      {/* What You will Find Here Section */}
       <div className="mb-16">
-        <h2 className="text-3xl font-bold text-gray-800 mb-8">What You&apos;ll Find Here</h2>
+        <h2 className="text-3xl font-bold text-gray-800 mb-8">What You'll Find Here</h2>
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {/* Medical Branches */}
