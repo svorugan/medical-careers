@@ -44,8 +44,8 @@ export default function CardiologyPage() {
           <div className="absolute left-5 top-0 bottom-0 w-1 bg-blue-200"></div>
           <div className="relative pl-16 pb-8">
             <div className="absolute left-0 bg-blue-500 rounded-full w-10 h-10 flex items-center justify-center text-white font-bold">1</div>
-            <h3 className="text-xl font-bold text-gray-900 mb-2">Bachelor's Degree (4 years)</h3>
-            <p className="text-gray-600 mb-2">Complete a bachelor's degree with pre-medical coursework including biology, chemistry, physics, and mathematics.</p>
+            <h3 className="text-xl font-bold text-gray-900 mb-2">Bachelors Degree (4 years)</h3>
+            <p className="text-gray-600 mb-2">Complete a bachelors degree with pre-medical coursework including biology, chemistry, physics, and mathematics.</p>
             <p className="text-gray-500 italic">Recommended majors: Biology, Chemistry, Biochemistry</p>
           </div>
           <div className="relative pl-16 pb-8">
