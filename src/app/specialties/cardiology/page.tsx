@@ -130,16 +130,7 @@ export default function CardiologyPage() {
         </div>
       </div>
 
-    {/* <div className="mb-12">
-        <h2 className="text-2xl font-semibold text-blue-800 mb-2">Sub-specialties</h2>
-        <ul className="list-disc pl-6 mb-4 text-gray-700">
-          <li>Interventional Cardiology</li>
-          <li>Electrophysiology</li>
-          <li>Heart Failure</li>
-          <li>Preventive Cardiology</li>
-        </ul>
-      </div> */}
-
+      {/* Cardiology Sub-specialties */}
       <div className="mb-16">
         <h2 className="text-3xl font-bold text-gray-900 mb-6">Cardiology Sub-specialties</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -184,8 +175,8 @@ export default function CardiologyPage() {
         </div>
       </div>
 
-       {/* Videos Section */}
-       <div className="mb-16">
+      {/* Videos Section */}
+      <div className="mb-16">
         <h2 className="text-3xl font-bold text-gray-900 mb-6">Videos About Cardiology</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[1, 2, 3].map((video) => (
@@ -244,7 +235,6 @@ export default function CardiologyPage() {
         </div>
       </div>
 
-     
     </div>
   );
 }

@@ -28,8 +28,8 @@ export default function NeurologyPage() {
             <p className="text-lg text-gray-600 mb-6">
               Neurology is a branch of medicine that deals with disorders of the nervous system, 
               which includes the brain, spinal cord, peripheral nerves, and muscles. Neurologists 
-              diagnose and treat conditions such as stroke, epilepsy, headaches, Alzheimer's disease, 
-              Parkinson's disease, multiple sclerosis, and many other neurological disorders.
+              diagnose and treat conditions such as stroke, epilepsy, headaches, Alzheimer&#39;s disease, 
+              Parkinson&#39;s disease, multiple sclerosis, and many other neurological disorders.
             </p>
             <div className="flex flex-wrap gap-2 mb-6">
               <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -54,8 +54,8 @@ export default function NeurologyPage() {
           
           <div className="relative pl-16 pb-8">
             <div className="absolute left-0 bg-blue-500 rounded-full w-10 h-10 flex items-center justify-center text-white font-bold">1</div>
-            <h3 className="text-xl font-bold text-gray-900 mb-2">Bachelor's Degree (4 years)</h3>
-            <p className="text-gray-600 mb-2">Complete a bachelor's degree with pre-medical coursework including biology, chemistry, physics, and mathematics.</p>
+            <h3 className="text-xl font-bold text-gray-900 mb-2">Bachelor&#39;s Degree (4 years)</h3>
+            <p className="text-gray-600 mb-2">Complete a bachelor&#39;s degree with pre-medical coursework including biology, chemistry, physics, and mathematics.</p>
             <p className="text-gray-500 italic">Recommended majors: Biology, Neuroscience, Biochemistry</p>
           </div>
           
@@ -160,7 +160,7 @@ export default function NeurologyPage() {
             },
             {
               name: "Neurogenetics",
-              description: "Specializes in diagnosing and managing genetic disorders that affect the nervous system, such as Huntington's disease and hereditary neuropathies.",
+              description: "Specializes in diagnosing and managing genetic disorders that affect the nervous system, such as Huntington&#39;s disease and hereditary neuropathies.",
               additionalTraining: "1-2 year fellowship after neurology residency"
             },
             {
@@ -180,7 +180,7 @@ export default function NeurologyPage() {
             },
             {
               name: "Movement Disorders",
-              description: "Focuses on conditions that affect movement, such as Parkinson's disease, Huntington's disease, and dystonia.",
+              description: "Focuses on conditions that affect movement, such as Parkinson&#39;s disease, Huntington&#39;s disease, and dystonia.",
               additionalTraining: "1-2 year fellowship after neurology residency"
             }
           ].map((subspecialty, index) => (

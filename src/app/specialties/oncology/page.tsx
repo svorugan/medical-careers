@@ -29,7 +29,7 @@ export default function OncologyPage() {
             </p>
             <h2 className="text-2xl font-semibold text-blue-800 mb-2">Education Timeline</h2>
             <ul className="list-disc pl-6 mb-4 text-gray-700">
-              <li>Bachelor's degree (4 years, pre-med recommended)</li>
+              <li>Bachelor&apos;s degree (4 years, pre-med recommended)</li>
               <li>Medical school (4 years, MD or DO)</li>
               <li>Internal medicine residency (3 years)</li>
               <li>Oncology fellowship (3+ years, varies by sub-specialty)</li>
